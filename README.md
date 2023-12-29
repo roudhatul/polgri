@@ -1,2 +1,0 @@
-# polgri
-Latihan Github Pages
